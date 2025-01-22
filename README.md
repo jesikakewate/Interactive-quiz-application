@@ -46,3 +46,8 @@ Dynamic Questions: Replace the questions array with a fetch request to an API or
 Deployment
 Host the app on a service like Hostinger, GitHub Pages, or Netlify.
 Share the app link for users to access the quiz.
+
+## OUTPUT ##
+
+![Image](https://github.com/user-attachments/assets/b8995881-15fa-4c11-b570-b7857a48247d)
+![Image](https://github.com/user-attachments/assets/e7e1d927-6ab8-48dd-9898-0b34392b4e90)
