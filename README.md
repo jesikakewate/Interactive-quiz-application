@@ -1,10 +1,5 @@
 # Interactive-quiz-application
-COMPANY : CODTECH IT SOLUTIONS
-NAME : JESIKA KEWATE
-INTERN ID : CTO8KLW
-DOMAIN : FRONTEND WEB DEVELOPMENT
-DURATION : 4 WEEKS
-MENTOR NAME : NEELA SANTOSH
+
 ## DESCRIPTION TO RELATED TASKS ##
 To build an interactive quiz application using JavaScript, you can follow these steps to meet the deliverables:
 
